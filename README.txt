@@ -1,3 +1,13 @@
+Arun Das' personal website
+
+This is my personal website! I built it on the "Forty" template from HTML5 UP, and 
+customized it to suit my needs. The code in this repository is for the modified template,
+and contains all the content on my site.
+
+If you have an questions/concerns, feel free to shoot me an email at arun UNDERSCORE das AT
+brown DOT edu.
+
+------ README FROM ORIGINAL TEMPLATE --------
 Forty by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
